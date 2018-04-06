@@ -1,0 +1,285 @@
+{
+  "CatalogVersion": "Cards",
+  "Catalog": [
+    {
+      "ItemId": "id_001",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Attack+1",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Attack+1\",\"ID\":1,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is an attack card.\",\"AP\":1,\"MV\":0,\"TP\":0,\"HP\":0,\"Cost\":1}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_002",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Attack+2",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Attack+2\",\"ID\":2,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is an attack card.\",\"AP\":2,\"MV\":0,\"TP\":0,\"HP\":0,\"Cost\":2}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_003",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Attack+3",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Attack+3\",\"ID\":3,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is an attack card.\",\"AP\":3,\"MV\":0,\"TP\":0,\"HP\":0,\"Cost\":3}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_004",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Attack+4",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Attack+4\",\"ID\":4,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is an attack card.\",\"AP\":4,\"MV\":0,\"TP\":0,\"HP\":0,\"Cost\":4}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_005",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Attack+5",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Attack+5\",\"ID\":5,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is an attack card.\",\"AP\":5,\"MV\":0,\"TP\":0,\"HP\":0,\"Cost\":5}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_006",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Tech+1",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Tech+1\",\"ID\":6,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is a tech booster.\",\"AP\":0,\"MV\":0,\"TP\":1,\"HP\":0,\"Cost\":1}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_007",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Tech+2",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Tech+2\",\"ID\":7,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is a tech booster.\",\"AP\":0,\"MV\":0,\"TP\":2,\"HP\":0,\"Cost\":2}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_008",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Tech+3",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Tech+3\",\"ID\":8,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is a tech booster.\",\"AP\":0,\"MV\":0,\"TP\":3,\"HP\":0,\"Cost\":3}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_009",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Tech+4",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Tech+4\",\"ID\":9,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is a tech booster.\",\"AP\":0,\"MV\":0,\"TP\":4,\"HP\":0,\"Cost\":4}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "id_010",
+      "ItemClass": null,
+      "CatalogVersion": "Cards",
+      "DisplayName": "Tech+5",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GO": 0
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [
+      ],
+      "CustomData": "{\"name\":\"Tech+5\",\"ID\":10,\"leftCon\":[0,2],\"rightCon\":[],\"info\":\"This is a tech booster.\",\"AP\":0,\"MV\":0,\"TP\":5,\"HP\":0,\"Cost\":5}",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": true,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    }
+  ]
+}
